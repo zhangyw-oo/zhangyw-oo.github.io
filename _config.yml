@@ -29,12 +29,12 @@ author:
   location         : "Earth"
   employer         : "Harbin Institute of Technology (Shenzhen)"
   uri              : # URL
-  email            : "zhangywoow@example.org" 
+  email            : "zhangywoow@gmail.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # URL - Update with the correct link to your profile
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0000-4285-4387"
   semantic         : # URL
