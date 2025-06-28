@@ -3,7 +3,7 @@ title: "Joint Moment Estimation for Hip Exoskeleton Control: A Generalized Momen
 collection: publications
 category: manuscripts
 permalink: /publication/GMF_JME
-excerpt: 'A novel hip joint moment estimation method and its application on an exoskeleton. <br/><img src='/images/GMF.pdf'>'
+excerpt: "A novel hip joint moment estimation method and its application on an exoskeleton. <br/><img src='/images/GMF.pdf'>"
 date: 2025-06-09
 venue: 'Biomimetic Intelligence and Robotics'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
