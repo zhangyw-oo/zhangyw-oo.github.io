@@ -7,7 +7,7 @@ excerpt: 'A CoM(center of mass) estimation and prediction method merging with vi
 date: 2025-06-02
 venue: 'IEEE Transactions on Automation Science and Engineering'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://ieeexplore.ieee.org/document/11021272'
+paperurl: '10.1109/TASE.2025.3570875'
 # bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'H. Xian, J. Xiong, Y. Zhang, X. Chen, C. Fu and Y. Leng, "Estimation and Prediction of CoM With Terrain Feature Embedding During Walking," in IEEE Transactions on Automation Science and Engineering, vol. 22, pp. 16108-16120, 2025, doi: 10.1109/TASE.2025.3570875.'
 ---
