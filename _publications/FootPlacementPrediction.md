@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/FootPlacementPrediction
 excerpt: 'A probability fusion approach using visual infromation and IMU for foot placement prediction.'
-date: 2025-11-23
+date: 2023-11-23
 venue: 'IEEE Transactions on Neural Systems and Rehabilitation Engineering'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://doi.org/10.1109/TNSRE.2023.3333685'
