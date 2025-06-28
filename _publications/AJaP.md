@@ -7,7 +7,7 @@ excerpt: 'An adaptive joint angle prediction method able to selt-optimize under 
 date: 2025-06-23
 venue: 'IEEE Transactions on Cognitive and Developmental Systems'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: '10.1109/TCDS.2025.3582970'
+paperurl: 'https://doi.org/10.1109/TCDS.2025.3582970'
 # bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'Y. Zhang, J. Xiong, H. Xian, X. Chen, C. Fu and Y. Leng, "AJaP: An Adaptive Network for Hip Joint Angle Prediction in Assistive Walking with Continual Learning," in IEEE Transactions on Cognitive and Developmental Systems, doi: 10.1109/TCDS.2025.3582970.'
 ---

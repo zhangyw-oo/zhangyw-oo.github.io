@@ -7,7 +7,7 @@ excerpt: 'A novel hip joint moment estimation method and its application on an e
 date: 2025-06-09
 venue: 'Biomimetic Intelligence and Robotics'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: '10.1016/j.birob.2025.100246'
+paperurl: 'https://doi.org/10.1016/j.birob.2025.100246'
 # bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'Y. Zhang, J. Xiong, H. Xian, C. Chen, X. Chen, C. Fu, and Y. Leng, Joint moment estimation for hip exoskeleton control: A generalized moment feature generation method, in Biomimetic Intelligence and Robotics, doi: 10.1016/j.birob.2025.100246'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'

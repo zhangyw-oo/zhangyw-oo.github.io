@@ -7,7 +7,7 @@ excerpt: 'A probability fusion approach using visual infromation and IMU for foo
 date: 2025-11-23
 venue: 'IEEE Transactions on Neural Systems and Rehabilitation Engineering'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: '10.1109/TNSRE.2023.3333685'
+paperurl: 'https://doi.org/10.1109/TNSRE.2023.3333685'
 # bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'J. Xiong, C. Chen, Y. Zhang, X. Chen, Y. Qian, Y. Leng, and C. Fu, "A Probability Fusion Approach for Foot Placement Prediction in Complex Terrains," in IEEE Transactions on Neural Systems and Rehabilitation Engineering, vol. 31, pp. 4591-4600, 2023, doi: 10.1109/TNSRE.2023.3333685. '
 ---
