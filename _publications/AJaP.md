@@ -3,7 +3,7 @@ title: "AJaP: An Adaptive Network for Hip Joint Angle Prediction in Assistive Wa
 collection: publications
 category: manuscripts
 permalink: /publication/AJaP
-excerpt: 'An adaptive joint angle prediction method able to selt-optimize under real world. <br/><img src='/images/500x300.png'>'
+excerpt: "An adaptive joint angle prediction method able to selt-optimize under real world. <br/><img src='/images/500x300.png'>"
 date: 2025-06-23
 venue: 'IEEE Transactions on Cognitive and Developmental Systems'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
